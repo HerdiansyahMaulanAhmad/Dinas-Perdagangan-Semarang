@@ -16,7 +16,7 @@
                         </h1>
                         <p
                             class="mt-3 text-base text-gray-300 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-                            Menyajikan informasi harga pangan terkini, peta pasar, dan layanan perizinan yang transparan
+                            Menampilkan informasi harga pangan terkini, peta pasar, dan layanan perizinan yang transparan
                             dan akuntabel untuk warga Semarang.
                         </p>
                         <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
