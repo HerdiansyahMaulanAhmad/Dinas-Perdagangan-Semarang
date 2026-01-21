@@ -16,7 +16,7 @@
                     <span class="mx-4 font-medium">Dashboard</span>
                 </a>
 
-                <a href="{{ route('admin.items.index') }}"
+                <a href="{{ route('admin.prices.index') }}"
                     class="flex items-center px-4 py-2 {{ request()->routeIs('admin.prices.*') ? 'text-gray-100 bg-navy-700' : 'text-gray-400 hover:bg-navy-700 hover:text-gray-100' }} transition-colors duration-200 transform rounded-md">
                     <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
