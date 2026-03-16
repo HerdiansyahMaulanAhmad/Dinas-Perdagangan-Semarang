@@ -38,7 +38,7 @@
                     <div class="mb-4">
                         <h3 class="text-lg font-semibold text-gray-900 dark:text-gray-100 mb-2">Lokasi Koordinat Kantor</h3>
                         <p class="text-sm text-gray-500 dark:text-gray-400 mb-4">
-                            Berikut adalah contoh peta lokasi dinas. Silakan Anda sesuaikan URL embed maps-nya.
+                            Lokasi Koordinat Peta Dinas Perdagangan Kota Semarang.
                         </p>
                           <!-- Map Embed -->
                         <div class="w-full h-80 overflow-hidden rounded-lg shadow-sm border border-gray-200 dark:border-gray-700 pointer-events-auto">
