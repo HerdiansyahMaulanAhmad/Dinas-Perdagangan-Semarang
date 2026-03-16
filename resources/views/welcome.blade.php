@@ -11,13 +11,13 @@
                 <main class="mt-10 mx-auto max-w-7xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28">
                     <div class="sm:text-center lg:text-left">
                         <h1 class="text-4xl tracking-tight font-extrabold text-white sm:text-5xl md:text-6xl">
-                            <span class="block xl:inline">Portal Resmi</span>
-                            <span class="block text-gold-500 xl:inline">Dinas Perdagangan</span>
+                            <span class="block xl:inline">Website Resmi</span>
+                            <span class="block text-gold-500 xl:inline">Dinas Perdagangan Kota Semarang</span>
                         </h1>
                         <p
                             class="mt-3 text-base text-gray-300 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
                             Menampilkan informasi harga pangan terkini, peta pasar, dan layanan perizinan yang transparan
-                            dan akuntabel untuk warga Semarang.
+                            dan akuntabel untuk warga Kota Semarang.
                         </p>
                         <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                             <div class="rounded-md shadow">
